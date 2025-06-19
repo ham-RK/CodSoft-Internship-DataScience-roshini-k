@@ -2,7 +2,6 @@
 
  **Intern**: ROSHINI K  
  **Internship**: Virtual (30 Days)  
- **Organization**: CodSoft 
  **Domain**: Data Science  
 
 ---
